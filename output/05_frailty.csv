@@ -1,0 +1,4 @@
+"model","term","hazard_ratio","ci_lower","ci_upper","p_value","frailty_variance"
+"Cox, strata(block), gamma frailty(station)","dose33%",0.77637523722362,0.496407947283689,1.21424024790958,0.267316444095518,5e-09
+"Cox, strata(block), gamma frailty(station)","dose66%",0.46131281732505,0.29125182577587,0.730671867417377,0.000976238959739296,5e-09
+"Cox, strata(block), gamma frailty(station)","dose100%",0.153008538608464,0.0871720870666785,0.268567768363631,6.15930364234399e-11,5e-09
